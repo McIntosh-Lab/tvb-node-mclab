@@ -173,7 +173,7 @@ docker run -p 8888:8888 -v /your/tvb/path/here:/tvb_node/tvb lrokos/tvb_node:lat
 
 &emsp;&emsp; iv) Running the `pwd` command should output `/tvb_node/tvb`. If not, run `cd /tvb_node/tvb`.
 
-&emsp;&emsp; v) Paste and run the following command: `git clone https://github.com/INN-SFU/tvb-node.git`
+&emsp;&emsp; v) Paste and run the following command: `git clone https://github.com/McIntosh-Lab/tvb-node-mclab.git`
 
 &emsp;&emsp; vi) The tvb-node repository should now exist on your local computer in the `tvb` folder!
 
