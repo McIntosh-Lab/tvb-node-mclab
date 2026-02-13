@@ -3,7 +3,7 @@
 ## Can I create TVB models without individualized MRI data?
 It is possible to model datasets that lack individualized MRI. Some approaches include:
 - Population-averaged connectomes: using age-matched average structural connectivities from openly available datasets.
-- Alternative constraints: everyone receives the same structural connectivity, but the models are informed by other imaging such as [PET](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2019.00054/full) or known features such as lesions.
+- Alternative constraints: everyone receives the same structural connectivity, but the models are informed by other imaging such as [PET](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2019.00054/full), or known features such as lesions.
 
 The approach you take will depend on the research questions you want to address.
 
