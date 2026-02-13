@@ -67,7 +67,7 @@ Prior to the session participants are asked to complete all pre-session steps in
 ---
 ## Additional Information & Resources
 
-If you have questions or need technical assistance before the workshop, please **use the [Discussion Board](https://github.com/INN-SFU/tvb-node/discussions)**.
+If you have questions or need technical assistance before the workshop, please **use the [Discussion Board](https://github.com/INN-SFU/tvb-node/discussions)**. Please also see if your question is in our [FAQ](/FAQ.md).
 
 **Resources:**
 
